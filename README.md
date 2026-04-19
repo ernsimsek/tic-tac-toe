@@ -49,6 +49,8 @@ The browser stores the following in `localStorage`:
 
 Clearing site data for this origin resets these preferences.
 
+<img width="1047" height="747" alt="Ekran görüntüsü 2026-04-19 165256" src="https://github.com/user-attachments/assets/f073588c-5c63-4bfe-86e2-c5499becc5cc" />
+
 ## License
 
 If no license is specified for this repository, clarify terms of use with the project owner.
